@@ -156,3 +156,6 @@ React/Node.js app.
 features](https://developers.google.com/web/progressive-web-apps/) for web and mobile, bigger investments in performance, and much more.
 
 We're committed to open source, which means our investment is your investment.
+
+Built with :heart: by [Team Electrode](https://github.com/orgs/electrode-io/people) @WalmartLabs.
+
